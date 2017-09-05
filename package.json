@@ -1,0 +1,26 @@
+{
+  "name": "ssz",
+  "version": "1.0.0",
+  "description": "Secure Share Zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanre/ssz.git"
+  },
+  "keywords": [
+    "send",
+    "secure",
+    "share",
+    "zip",
+    "file"
+  ],
+  "author": "vovanre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vovanre/ssz/issues"
+  },
+  "homepage": "https://github.com/vovanre/ssz#readme"
+}
